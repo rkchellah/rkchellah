@@ -1,4 +1,11 @@
-## Hi, my name is Chella Kamina 👋
+## Hi👋
+
+
+
+    👋 Hi, I’m Chella Kamina.
+    👀 I’m a data analyst who enjoys documenting my learning journey.
+    🌱 I’m currently learning data storytelling.
+    👯 I’m open to collaborate on data analysis projects; volunteer or otherwise.
 
 <!--
 **rkchellah/rkchellah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
