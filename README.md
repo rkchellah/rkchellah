@@ -9,7 +9,7 @@ Thanks for checking out my profile, I am a passionate Data and I'm someone who e
 - I write articles on my blog at [Savvy Secure](https://savvysecure.wordpress.com/)
 - LinkedIn Profile [Linkedin](https://linkedin.com/in/rkchellah)
 - You can reach me at rkchellah@gmail.com
-- My resume can be found here
+- My resume can be found [here](https://docs.google.com/document/d/1f1QgtAD2Z2yXqUFFOB4MP8Bl9freCv66/edit)
 
 <!--## Hi👋
 
