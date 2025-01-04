@@ -1,6 +1,6 @@
 ## <p align="center"> Hi, I'm Chella Kamina</p>
 
-Thanks for checking out my profile, I am a passionate Data and I'm someone who enjoys getting things done. I maintain a few repositories here on Github and I enjoys woking on new projects from time to time, feel free to reach out.
+Thanks for checking out my profile, I am a passionate about Data and I'm someone who enjoys getting things done. I maintain a few repositories here on Github and I enjoys woking on new projects from time to time, feel free to reach out.
 
  - What am really doing: 
    - I’m a data analyst who enjoys documenting my learning journey.
