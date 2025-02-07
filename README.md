@@ -6,8 +6,8 @@ Thanks for checking out my profile, I am a passionate about Data and I'm someone
    - I’m a data analyst who enjoys documenting my learning journey.
    - I’m currently learning data storytelling. 
    - I’m open to collaborate on data analysis projects; volunteer or full time.
-- I write articles on my blog at [Savvy Secure](https://savvysecure.wordpress.com/)
 - LinkedIn Profile [Linkedin](https://linkedin.com/in/rkchellah)
+- Tableau Profile [Tableau]([https://savvysecure.wordpress.com/](https://public.tableau.com/app/profile/chella.kamina/vizzes))
 - You can reach me at rkchellah@gmail.com
 - My resume can be found [here](https://docs.google.com/document/d/1f1QgtAD2Z2yXqUFFOB4MP8Bl9freCv66/edit)
 
