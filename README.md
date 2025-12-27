@@ -9,7 +9,7 @@ Thanks for checking out my profile, I am a passionate about Data and I'm someone
 - LinkedIn Profile [Linkedin](https://linkedin.com/in/rkchellah)
 - Tableau Profile [Tableau](https://public.tableau.com/app/profile/chella.kamina/vizzes)
 - You can reach me at rkchellah@gmail.com
-- My resume can be found [here](https://docs.google.com/document/d/1f1QgtAD2Z2yXqUFFOB4MP8Bl9freCv66/edit)
+- My resume can be found [here](https://docs.google.com/document/d/1irrYnO9DOA5Jw2DZZSt7twNRm3FaCQpT/edit)
 
 <!--## Hi👋
 
