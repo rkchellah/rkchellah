@@ -1,37 +1,45 @@
-## <p align="center"> Hi, I'm Chella Kamina</p>
+Hello there 👋, Welcome to my space!
 
-Thanks for checking out my profile, I am a passionate about Data and I'm someone who enjoys getting things done. I maintain a few repositories here on Github and I enjoys woking on new projects from time to time, feel free to reach out.
+Let me tell you a little about me, shall I?
 
- - What am really doing: 
-   - I’m a data analyst who enjoys documenting my learning journey.
-   - I’m currently learning data storytelling. 
-   - I’m open to collaborate on data analysis projects; volunteer or full time.
-- LinkedIn Profile [Linkedin](https://linkedin.com/in/rkchellah)
-- Tableau Profile [Tableau](https://public.tableau.com/app/profile/chella.kamina/vizzes)
-- You can reach me at rkchellah@gmail.com
-- My resume can be found [here](https://docs.google.com/document/d/1irrYnO9DOA5Jw2DZZSt7twNRm3FaCQpT/edit)
+I'm Chella Kamina, a data analyst and blogger.
 
-<!--## Hi👋
+I'm passionate about helping businesses solve their problems by making provisions for these businesses to be data-driven. I also love breaking down complex concepts using written language.
 
+Confused about anything data? Then my storytelling skills will clarify you on any issue regarding your business data or any data technical concept.
 
+Interests
+🌱 Exploring new technologies and tools while also writing about them.
 
-👋 Hi, I’m Chella Kamina. <br>
-👀 I’m a data analyst who enjoys documenting my learning journey.<br>
-🌱 I’m currently learning data storytelling.<br>
+🚀 Telling data stories that make an impact.
+
 👯 I’m open to collaborate on data analysis projects; volunteer or otherwise.
--->
 
-<!--
-**rkchellah/rkchellah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Ask me about Data Analysis, Technical Writing, Open Source etc.
 
-Here are some ideas to get you started:
+📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Social Media:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rkchellah@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rkchellah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rkchellah/)
+
+Technical Skills
+
+📊 Data Analysis Tools
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+
+💻 Programming & Querying
+
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+💻 IDEs/Editors
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
