@@ -19,7 +19,7 @@ I'm a data analyst from Zambia who genuinely enjoys turning messy, confusing dat
 
 - 👯 Collaborating on data analysis projects, volunteer or otherwise
 - 💬 Talking about Data Analysis, Technical Writing, and Open Source
-- 🌱 Mentoring anyone just getting started with data
+- 🌱 Connecting with others on the same learning journey, always growing, always curious
 
 ---
 
