@@ -10,7 +10,7 @@ My job is making sure that doesn't happen.
 I'm a data analyst from Zambia who genuinely enjoys turning messy, confusing datasets into clear stories that help businesses make better decisions. I write about it too, because if I can't explain it simply, I don't understand it well enough yet.
 
 - **Day job:** Data analysis, BI dashboards, reporting automation, geospatial mapping
-- **Tools I live in:** SQL, Excel (yes, including VBA), Python, Tableau, QGIS, KoBoToolbox
+- **Tools I live in:** SQL, Excel, Python, Tableau, Power BI, QGIS
 - **Side quest:** Blogging, breaking down data concepts for people who didn't sign up for a stats lecture
 - **Currently exploring:** New tools, new technologies, and better ways to tell data stories
 - **Fun fact:** I believe every dataset has a story. Finding it is the best part.
@@ -27,6 +27,6 @@ I'm a data analyst from Zambia who genuinely enjoys turning messy, confusing dat
 
 ```
 SQL · Excel · Python · Tableau · QGIS · Google Sheets
-KoBoToolbox · Magpi · RedCap · Unleashed ERP
+KoBoToolbox · Power BI · RedCap · Unleashed ERP
 Git · Google Maps API · Data Validation · GIS
 ```
