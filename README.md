@@ -11,10 +11,9 @@ I work in data. I also build outside of it. Sometimes both at once.
 
 - 📊 **Analyse & visualise**: BI dashboards, reporting automation, geospatial mapping
 - 🛠️ **Build & ship**: hackathons, AI-powered projects, end-to-end pipelines  
-- ✍️ **Write & document**: breaking down data concepts for people who didn't sign up for a stats lecture
-
+- ✍️ **Write & document**: Breaking down complex ideas until they're obvious
 ## Open to
 
-- 👯 Collaborating on data or open source projects — volunteer or otherwise
-- 💬 Talking about data analysis, technical writing, and the messy middle of learning
+- 👯 Collaborating on data or open source projects, volunteer or otherwise
+- 💬 Talking about tech, innovation, AI and the messy middle of learning
 - 🌱 Connecting with curious people on the same journey
