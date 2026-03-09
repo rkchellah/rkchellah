@@ -1,7 +1,7 @@
 # Hey, I'm Chella 👋
 
 I'm a data analyst. I turn messy, confusing datasets into clear stories 
-that help businesses make better decisions. During my free time, I build things, join hackathons and 
+that help businesses make better decisions. During my free time, I build, join hackathons and 
 document everything, because if I can't explain it simply, I don't understand it well enough yet.
 
 I work in data. I also build outside of it. Sometimes both at once.
