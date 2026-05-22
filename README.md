@@ -1,6 +1,6 @@
 # Hey, I'm Chella 👋
 
-Data analyst who builds AI systems. I work with real business data at my day job and ship AI tools in my free time.
+Data analyst, I build AI systems in my free time.
 
 ## What I do
 
